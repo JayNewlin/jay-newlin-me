@@ -1,8 +1,4 @@
----
-title: Jay Newlin's Personal Digital Garden
-description: A work in progress
----
-# Jay Newlin
+# Jay Newlin's Personal Digital Garden
 
 Welcome to my personal digital garden 🌿
 

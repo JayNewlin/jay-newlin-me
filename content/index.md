@@ -1,5 +1,6 @@
-# Jay Newlin's Personal Digital Garden
-
+---
+title: Jay Newlin's Personal Digital Garden
+---
 Welcome to my personal digital garden 🌿
 
 This site is a collection of notes, reflections, and ideas—some fully formed, others still growing. Think of it less like a blog, and more like a living notebook.

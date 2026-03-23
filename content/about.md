@@ -1,5 +1,3 @@
-# About
-
 # I'm Jay Newlin
 
 * I'm a senior technologist with a 30+ year career in software development, which explains why I would have a digital garden for my personal site

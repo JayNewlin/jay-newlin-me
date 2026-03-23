@@ -1,11 +1,11 @@
 ---
-title: Jay Newlin
-description: A digital garden in progress
+title: JayNewlin.me
+description: A personal digital garden in progress
 ---
 
-# Jay Newlin's Digital Garden 🌿
+# Jay Newlin's Personal Digital Garden 🌿
 
-This site is a collection of notes, reflections, and ideas—some fully formed, others still growing. Think of it less like a blog, and more like a living notebook.
+This site will become a collection of notes, reflections, and ideas—some fully formed, others still growing. Think of it less like a blog, and more like a living notebook.
 
 ---
 
@@ -22,17 +22,13 @@ Instead of publishing only finished pieces, I’m exploring:
 
 ## 🔧 Status
 
-If you’re seeing this page, then:
-
-- ✅ Quartz is building successfully  
-- ✅ Cloudflare Pages is serving the site  
-- ✅ My domain is connected correctly  
-
-Not bad for a first step.
+- ✅ Quartz is like my CMS  
+- ✅ GitHub Pages is serving the site  
+- ✅ My domain is connected correctly to Cloudflare and GitHub Pages 
 
 ---
 
-## 🌱 First Notes
+## 🌱 WIP
 
 Here are a few placeholder notes to test linking:
 
@@ -40,7 +36,7 @@ Here are a few placeholder notes to test linking:
 - [[church]]
 - [[reflections/first-thoughts]]
 
-(These may or may not exist yet—that’s part of the process.)
+(These may or may not exist yet; that’s part of the process.)
 
 ---
 

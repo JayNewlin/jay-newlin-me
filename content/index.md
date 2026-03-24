@@ -8,7 +8,7 @@ This site is a collection of notes, reflections, and ideas—some fully formed, 
 ---
 ## 🧭 What is this?
 
-This is an experiment in building a **digital garden** using Quartz.
+This is a project where I'm building a **digital garden** using Quartz.
 
 Instead of publishing only finished pieces, I’m exploring:
 - ideas in progress
@@ -16,39 +16,15 @@ Instead of publishing only finished pieces, I’m exploring:
 - evolving thoughts over time
 
 ---
-## 🔧 Status
-
-If you’re seeing this page, then:
-
-- ✅ Obsidian has managed the files and allowed me to edit them
-- ✅ Quartz is building successfully  
-- ✅ GitHub Pages is serving the site  
-- ✅ My domain is connected correctly  
-
----
-
-## 🌱 Initial Thoughts
-
-Here are a few placeholder notes to test linking:
-
-- [[About]]
-- [[Church]]
-- [[First-Thoughts]]
-
-(These may or may not exist yet—that’s part of the process.)
-
----
-
 ## 🧪 Experiments
 
-This site will likely evolve as I explore:
+This site will continue to evolve as I explore:
 
 - writing workflows (Markdown vs other tools)
 - knowledge organization (Obsidian, Quartz)
-- personal vs professional voice
+- finding one or more voices
 
 ---
-
 ## ✍️ A Note on Writing
 
 Some pages will be polished.  
@@ -56,16 +32,6 @@ Others will be rough.
 All of them are part of the same process.
 
 ---
+## 🏗️ 🦺 Under Construction
 
-## 🔗 External Links
-
-- [Quartz Documentation](https://quartz.jzhao.xyz/)
-- [Cloudflare Pages](https://pages.cloudflare.com/)
-
----
-
-## 👋 For Now
-
-This is just the beginning.
-
-More soon.
+This site is very new (as of late March 2026). Stay tuned: There's more to come!

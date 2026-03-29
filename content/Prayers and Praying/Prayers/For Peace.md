@@ -1,3 +1,9 @@
+---
+title: A prayer for peace
+tags:
+  - prayer
+  - peace
+---
 God of all peoples and nations, we pray today for peace amongst your human children.
 
 We confess that our sin and our pride blind us to your way of peace in our world. We would rather rely on our own strength, our own initiative, and our own ideas than to work cooperatively or to seek others' thoughts, ideas, and guidance. We like to possess and control more, and we grow jealous of those who have what we do not have. For these and for many other reasons, we provoke and prod one another until a violent response breaks out. Forgive our foolish pride and selfish insistence on "having it our way." Send instead your Spirit to enlighten our minds, open our hearts, and to guide us into the ways of peaceful cooperation with each other.

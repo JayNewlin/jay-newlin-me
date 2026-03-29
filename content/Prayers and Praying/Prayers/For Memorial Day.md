@@ -1,3 +1,8 @@
+---
+title: A prayer for Memorial Day
+tags:
+  - prayer
+---
 God of the living and of the dead, God of our ancestors and of our descendants, God in whom we all live, and move, and have our being: We come before you in prayer on this Memorial Day to remember those who gave their lives in service to our country and those who gave their lives in service to others or to protect others' lives.
 
 We thank you for men and women who set aside their everyday lives to enter military service. Some volunteered; others were drafted. Some became officers, and others served without significant rank. We give you thanks for them all.

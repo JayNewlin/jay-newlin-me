@@ -1,3 +1,7 @@
+---
+title: A reflection on Sesame Street
+description: "Or: Who ARE the people in your neighborhood?"
+---
 Since I have four siblings younger than I (by 2, 5, 9, and 14 years), _Sesame Street_ was on our TV most days after school for many years. One of the features was the "People That You Meet" segment, and they featured a police officer, a firefighter, a letter carrier, and so on. If memory serves, they never mentioned
 
 * The person, walking down the street, having an argument with themselves;

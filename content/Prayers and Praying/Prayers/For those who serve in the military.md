@@ -1,3 +1,8 @@
+---
+title: A prayer for those serving in the military
+tags:
+  - prayer
+---
 God of us all, we pray this day for all those who are in service to our country in our military forces. We ask that you would watch over, care for, and protect them. We know that their jobs are difficult, straining every nerve, muscle, and fiber of their being, so give them the strength that they need to carry out their duties well.
 
 For those who are serving far from their home: Grant that their sense of loneliness and separation from family and friends be ameliorated by camaraderie, by frequent communications with home, and by a sense of your comforting Presence.

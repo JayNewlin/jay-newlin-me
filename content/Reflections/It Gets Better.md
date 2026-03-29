@@ -1,3 +1,10 @@
+---
+title: It gets better
+tags:
+  - reflection
+  - LGBTQ
+  - Pride
+---
 ### Note
 This is a reflection that I wrote for the "It Gets Better" Project back in October 2010. I'm bringing content from my blog to this site, and I haven't edited this yet. It contains some outdated statements, so I'll come back to it soon.
 

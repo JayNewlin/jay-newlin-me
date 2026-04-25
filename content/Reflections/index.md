@@ -11,3 +11,5 @@ I no longer have the need to think and reflect publicly, so:
 These reflections are and will cover a wide array of topics. Pick and choose what you think you might like to read.
 
 If any of these spark a thought of your own, don't hesitate to reach out to me at jay@jaynewlin.me
+
+---

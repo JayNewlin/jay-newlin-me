@@ -18,3 +18,6 @@ For Military Families: Send forth your Spirit to provide them the strength that 
 Grant that we all will remember to be grateful to those who serve or who have served in the military. Help us to support them by our care, our concern, and our prayers.
 
 Finally, O God, we pray for the day when your Kingdom truly comes in this world, when wars and conflicts cease, and when we all become one family in Jesus Christ our Lord, through whom we pray. Amen
+
+---
+**Note:** I no longer remember where I got the origins of this prayer, but I know that I adapted it. If it's yours: apologies if it looks like I stole it; feel free to reach me at jay@jaynewlin.me and let me know the source.
